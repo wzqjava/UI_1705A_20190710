@@ -1,0 +1,3 @@
+include ':app', ':application_chuanzhi', ':listveiw', ':week1_B', ':sendobject', ':yinshi', ':lib', ':day13_Expandable_Demo', ':day15_handler_progress', ':day09_activity', ':myapplication', ':month_07'
+include 'listveiw_click'
+

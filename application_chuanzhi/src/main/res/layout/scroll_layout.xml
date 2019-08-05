@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <!--
+    ScrollView:内部只能有一个孩子
+    -->
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dler Cloud: 规则大佬 lhie1 的机场,150+节点,一家很稳很强的机场,速度相当不错,维护也很及时,lhie1 大佬的技术也很好;最近新写的后端,性能增强,BGP,IPLC等等中转,部署10多台Gbps级国内BGP线路,稳定性非常好.
+套餐:¥228/年,¥328/年,¥448/年,¥668/年,¥888/年,¥1888/年,¥3000/年" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dler Cloud: 规则大佬 lhie1 的机场,150+节点,一家很稳很强的机场,速度相当不错,维护也很及时,lhie1 大佬的技术也很好;最近新写的后端,性能增强,BGP,IPLC等等中转,部署10多台Gbps级国内BGP线路,稳定性非常好.
+套餐:¥228/年,¥328/年,¥448/年,¥668/年,¥888/年,¥1888/年,¥3000/年" />
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dler Cloud: 规则大佬 lhie1 的机场,150+节点,一家很稳很强的机场,速度相当不错,维护也很及时,lhie1 大佬的技术也很好;最近新写的后端,性能增强,BGP,IPLC等等中转,部署10多台Gbps级国内BGP线路,稳定性非常好.
+套餐:¥228/年,¥328/年,¥448/年,¥668/年,¥888/年,¥1888/年,¥3000/年" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dler Cloud: 规则大佬 lhie1 的机场,150+节点,一家很稳很强的机场,速度相当不错,维护也很及时,lhie1 大佬的技术也很好;最近新写的后端,性能增强,BGP,IPLC等等中转,部署10多台Gbps级国内BGP线路,稳定性非常好.
+套餐:¥228/年,¥328/年,¥448/年,¥668/年,¥888/年,¥1888/年,¥3000/年" />
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

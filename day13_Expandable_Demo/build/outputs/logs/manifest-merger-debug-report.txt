@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/5ff1a09df0ed57d690039d36cfa762e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/812a5e964edcaf2c7d30fbf709ec8813/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/d6c9f15fca7dce06cb2efd79ff431db7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/c7c6f4726244ba1e4d5daccf47540a87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/bf28708f8a4d0d04814d43b3f7a5f600/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/441e7bef2f2fd133693eb077de954142/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac9f85ea2914753d88ac443a33bb4b33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9985889d4beaed18c16b8e42ec2cdc1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac5ef8f8105ba92940351e6daf725486/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/e9205b3531c8c97a4d338018bca0361c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/96ee4365bc23c07bcf5e7c678f00a7c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/2c5e06485299822cf3d27a6ba3aceed3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/5a4e1554098d3f2e38242d0c21658855/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9005eb5607ceaf070b7998a0ea0e1b1f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/61fe66cc902c4039fccd97f06daf504d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/c52ecff799942ab142e1bb7cd884b6f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/6f8d64d157ecd61eeb7f8d11b1d9f0ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/024dab4041d6c949f6576dc0e1a907ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac4d63bb94a7b3260a93fd552b50af0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/4724587d896052dce7b400cda2883ea4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/2b6b49b51c6a8000eaf0f2eed8afa2bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/a02701b67fe0e91921a52019d8399b89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/144213cd79a7f5d4c791cb825f6f8d26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/303ce37762890f9a7cdb9663de08fc33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ab0dccd1faa454f6d971c2fb42e0d044/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+application
+ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [androidx.core:core:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9005eb5607ceaf070b7998a0ea0e1b1f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9005eb5607ceaf070b7998a0ea0e1b1f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/61fe66cc902c4039fccd97f06daf504d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/61fe66cc902c4039fccd97f06daf504d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9005eb5607ceaf070b7998a0ea0e1b1f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.classbegin.MainActivity
+ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/5ff1a09df0ed57d690039d36cfa762e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/5ff1a09df0ed57d690039d36cfa762e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/812a5e964edcaf2c7d30fbf709ec8813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/812a5e964edcaf2c7d30fbf709ec8813/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/d6c9f15fca7dce06cb2efd79ff431db7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/d6c9f15fca7dce06cb2efd79ff431db7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/c7c6f4726244ba1e4d5daccf47540a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/c7c6f4726244ba1e4d5daccf47540a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/bf28708f8a4d0d04814d43b3f7a5f600/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/bf28708f8a4d0d04814d43b3f7a5f600/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/441e7bef2f2fd133693eb077de954142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/441e7bef2f2fd133693eb077de954142/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac9f85ea2914753d88ac443a33bb4b33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac9f85ea2914753d88ac443a33bb4b33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9985889d4beaed18c16b8e42ec2cdc1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9985889d4beaed18c16b8e42ec2cdc1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac5ef8f8105ba92940351e6daf725486/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac5ef8f8105ba92940351e6daf725486/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/e9205b3531c8c97a4d338018bca0361c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/e9205b3531c8c97a4d338018bca0361c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/96ee4365bc23c07bcf5e7c678f00a7c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/96ee4365bc23c07bcf5e7c678f00a7c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/2c5e06485299822cf3d27a6ba3aceed3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/2c5e06485299822cf3d27a6ba3aceed3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/5a4e1554098d3f2e38242d0c21658855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/5a4e1554098d3f2e38242d0c21658855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9005eb5607ceaf070b7998a0ea0e1b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/9005eb5607ceaf070b7998a0ea0e1b1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/61fe66cc902c4039fccd97f06daf504d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/61fe66cc902c4039fccd97f06daf504d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/c52ecff799942ab142e1bb7cd884b6f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/c52ecff799942ab142e1bb7cd884b6f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/6f8d64d157ecd61eeb7f8d11b1d9f0ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/6f8d64d157ecd61eeb7f8d11b1d9f0ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/024dab4041d6c949f6576dc0e1a907ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/024dab4041d6c949f6576dc0e1a907ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac4d63bb94a7b3260a93fd552b50af0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ac4d63bb94a7b3260a93fd552b50af0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/4724587d896052dce7b400cda2883ea4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/4724587d896052dce7b400cda2883ea4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/2b6b49b51c6a8000eaf0f2eed8afa2bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/2b6b49b51c6a8000eaf0f2eed8afa2bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/a02701b67fe0e91921a52019d8399b89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/a02701b67fe0e91921a52019d8399b89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/144213cd79a7f5d4c791cb825f6f8d26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/144213cd79a7f5d4c791cb825f6f8d26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/303ce37762890f9a7cdb9663de08fc33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/303ce37762890f9a7cdb9663de08fc33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ab0dccd1faa454f6d971c2fb42e0d044/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/wzq/.gradle/caches/transforms-2/files-2.1/ab0dccd1faa454f6d971c2fb42e0d044/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		ADDED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wzq/workspaces/AndroidStudioProjects/UI_1705A_20190710/day13_Expandable_Demo/src/main/AndroidManifest.xml

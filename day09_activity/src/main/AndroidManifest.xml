@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wzq.com.day10_activity">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppThem">
+
+
+
+        <!--          android:screenOrientation="landscape" 屏幕方向 -->
+        <!--
+             android:configChanges
+            控制屏幕方向发生改变后, 的声明周期
+            1、不设置Activity的android:configChanges时，切屏会重新调用各个生命周期，竖屏切横屏时会执行一次，横屏切竖屏时会执行两次声明周期;
+
+            2、设置Activity的android:configChanges="orientation"时，切屏还是会重新调用各个生命周期，切横、竖屏时只会执行一次
+
+            3、设置Activity的android:configChanges="orientation|keyboardHidden"时，切屏不会重新调用各个生命周期，只会执行onConfigurationChanged方法
+        -->
+        <activity
+            android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+ 四种启动模式
+            https://blog.csdn.net/a1195943768/article/details/67638933
+
+            standard:标准模式:我被启动我就在栈里创建个实例
+            singleTop:栈顶单例   ,如果顶部已经有那个activity实例,那么就不创建新实例,直接用它
+            singleTask:栈内单例  , 如果栈内有那个activity,就把那个activity上边的所有其他activity销毁;
+            singleInstances:自己单独一个任务栈;  创建一个新的任务栈来装这个实例;
+        -->
+        <activity
+            android:name=".Main2Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="standard"/>
+
+       <activity android:name=".Main3Activity"
+            android:launchMode="standard"
+
+           />
+
+
+    </application>
+
+</manifest>
